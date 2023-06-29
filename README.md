@@ -12,3 +12,7 @@ Projeto realizado na iFoodDevWeek com a plataforma DIO.
     <li>MatPlotLib</li>
   </ul>
 </ul>
+
+<p align="center">
+  <img src="https://github.com/benattimatheus/iFoodDevWeek/blob/main/graficonps.png">
+</p>
